@@ -2,7 +2,7 @@
 
 ## step1 :- Clone the repo
 ## step2 :- Change branch
-      git checkout python-1
+      git checkout master
 ## step3:- Install requirment.txt
 pip install -r requirements.txt
 ## step4 :- Run command for virtual enviroment
