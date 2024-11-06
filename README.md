@@ -1,8 +1,15 @@
 ### python_server
 
 ## step1 :- Clone the repo
-## step :- Change branh
-## step :- Run command for virtual enviroment
-## step:- Install requirment.txt
-## step :- Flask server run locally
+## step2 :- Change branch
+      git checkout python-1
+## step3:- Install requirment.txt
+pip install -r requirements.txt
+## step4 :- Run command for virtual enviroment
+source venv/bin/activate
+
+## step5 :- Flask server run locally
+flask run
+
+
 
