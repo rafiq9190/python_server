@@ -1,0 +1,22 @@
+# Ignore Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore environment variables file (if you store secrets)
+.env
+
+# Ignore Flask log files
+*.log
+
+# Ignore IDE/editor specific files
+.vscode/
+.idea/
+
+# Ignore system files (e.g., macOS, Windows)
+.DS_Store
+Thumbs.db
